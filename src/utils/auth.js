@@ -1,4 +1,3 @@
-// src/auth.js
 import Cookies from "js-cookie";
 
 const hardcodedUser = {
